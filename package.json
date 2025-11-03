@@ -1,0 +1,20 @@
+{
+  "name": "practice-react-movie-app-charlie-d",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CharlieDavidson4011/practice-react-movie-app-charlie-d.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CharlieDavidson4011/practice-react-movie-app-charlie-d/issues"
+  },
+  "homepage": "https://github.com/CharlieDavidson4011/practice-react-movie-app-charlie-d#readme",
+  "description": ""
+}
